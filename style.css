@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&family=Source+Code+Pro:ital,wght@0,200..900;1,200..900&display=swap');
+*{
+    background-color:rgb(255, 255, 255);
+    margin: 0;
+    font-family: "Source code pro";
+    
+}
+#navtt{
+    color: rgb(154, 143, 112);
+    margin-left: 1%;
+    font-family: "Dancing Script";
+    font-weight: 700;
+
+}
+#img{
+    height: 5em;
+    margin-left: 10%
+}
+#nav-right{
+margin-right: 20%;
+}
+#bg:hover{
+    background-color: rgb(177, 144, 96);
+
+}
+#bg{
+    color: rgb(205, 170, 113);
+    border:1px solid rgb(146, 116, 86);
+    margin: 0;
+
+}
+.carous{
+   height: 400PX;
+   width: 50%;
+}
+h1{
+    text-align: center;
+ 
+}
+#btn{
+    background-color: rgb(138, 136, 109);
+    border: none;
+
+}
+#bot{
+    background-color: rgb(100, 60, 9);
+    border: none;
+}
